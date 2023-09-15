@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'pdc50-stephanie-basilio'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D1AB279FA80243E69B637F7F49ED856C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_ED7BCD8A71104033BC7F73FCBECFA170 }}
           package: .
